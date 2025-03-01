@@ -28,7 +28,7 @@ This was my first project in a Data Science and AI course, introducing me to Com
 
 ## Requirements
 
-- Python 3.12
+- Python 3.13
 - `opencv-python` (install via pip install `opencv-python`)
 
 ## How It Works
