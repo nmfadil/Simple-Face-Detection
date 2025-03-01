@@ -1,0 +1,15 @@
+# Python virtual environments
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Editor-specific files
+.vscode/
+*.swp
+
+# System-generated files
+.DS_Store
+Thumbs.db
